@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+/* Styling for the container with class 'main' */
+.main {
+  width: 200px;
+  background-color: purple;
+  border-left: 5px solid green; /* Left border with green color and 5px thickness */
+  padding: 10px; /* Padding on all sides */
+}
+
+/* Styling for the heading with class 'heading' */
+#heading {
+  font-size: 20px;
+  color: white; /* White text color */
+  text-decoration: underline; /* Underline the text */
+}
